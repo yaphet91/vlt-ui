@@ -48,10 +48,6 @@ It represents:
 - Growth
 - Expressing emotions through technology
 Beyond functionality, this project demonstrates how code can be used to create meaningful digital experiences.
-
-Some projects solve problems.  
-Some projects tell a story.
-This one does both - and comes from the heart.
 ---
 
 ❤️ Final Note
